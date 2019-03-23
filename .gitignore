@@ -5,3 +5,5 @@ venv/
 # JetBrains PyCharm
 .idea/
 
+# Other
+.DS_Store

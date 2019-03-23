@@ -7,3 +7,4 @@ venv/
 
 # Other
 .DS_Store
+*.pyc
